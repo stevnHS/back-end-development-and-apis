@@ -158,26 +158,28 @@
     "dashedName": "build-a-bank-api",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 0,
+    "currentLesson": 34,
     "runTestsOnWatch": true,
     "seedEveryLesson": false,
     "isResetEnabled": false,
     "blockingTests": null,
     "breakOnFailure": null,
-    "numberOfLessons": 35
+    "numberOfLessons": 35,
+    "completedDate": 1787734411393
   },
   {
     "id": 12,
     "dashedName": "build-a-resource-monitor",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 0,
+    "currentLesson": 19,
     "runTestsOnWatch": true,
     "seedEveryLesson": false,
     "isResetEnabled": false,
     "blockingTests": null,
     "breakOnFailure": null,
-    "numberOfLessons": 20
+    "numberOfLessons": 20,
+    "completedDate": 1787812921274
   },
   {
     "id": 13,
