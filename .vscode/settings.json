@@ -28,10 +28,10 @@
     "build-a-weather-service-api": true,
     "build-a-bank-api": true,
     "build-a-resource-monitor": true,
-    "build-a-chat-app": false,
-    "build-jwt-protected-routes": true
+    "build-a-chat-app": true,
+    "build-jwt-protected-routes": false
   },
-  "chat.disableAIFeatures": true,
+  "chat.disableAIFeatures": false,
   "files.autoSave": "afterDelay",
   "freecodecamp-courses.autoStart": false,
   "freecodecamp-courses.prepare": "touch $(pwd)/.logs/.freecodecamp-os-lockfile",
@@ -42,7 +42,7 @@
       "open": true,
       "showLoader": true,
       "timeout": 4000,
-      "url": "https://curly-waffle-j65p7ww4g4wcpvxg-8080.app.github.dev"
+      "url": "http://localhost:8080"
     }
   ],
   "terminal.integrated.defaultProfile.linux": "bash",
