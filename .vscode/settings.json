@@ -42,7 +42,7 @@
       "open": true,
       "showLoader": true,
       "timeout": 4000,
-      "url": "http://localhost:8080"
+      "url": "https://curly-waffle-j65p7ww4g4wcpvxg-8080.app.github.dev"
     }
   ],
   "terminal.integrated.defaultProfile.linux": "bash",
