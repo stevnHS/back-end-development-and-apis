@@ -46,7 +46,6 @@ export function addMovie(userId, movieData) {
     id: newId,
     title: movieData.title,
     genre: movieData.genre,
-    watched: false,
   };
 
   list.push(movie);
